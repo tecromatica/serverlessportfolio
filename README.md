@@ -13,6 +13,8 @@
     * Babel for browser compatibility
     * Jest
     * images
+  * font awesome
+  * google fonts
 
 * Develop locally
 * Github
