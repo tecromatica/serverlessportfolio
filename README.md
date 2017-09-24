@@ -22,4 +22,4 @@
 * sns notifies owner of deployment
 
 
- README.md ver 1.3
+ README.md ver 1.4
