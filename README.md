@@ -6,13 +6,13 @@
 * Route 53
 * CloudFront
 * S3 - To store static content
- * html
- * css
- * javascript
-  * React for Facebook
-  * Babel for browser compatibility
-  * Jest
-  * images
+  * html
+  * css
+  * javascript
+    * React for Facebook
+    * Babel for browser compatibility
+    * Jest
+    * images
 
 * Develop locally
 * Github
