@@ -5,14 +5,14 @@
 ## Tools and Components used
 * Route 53
 * CloudFront
-* S3 * 
-** html, 
-** css, 
-** javascript
-*** React * Facebook
-*** Babel * browser compatibility
-*** Jest
-*** images
+* S3 - To store static content
+ * html
+ * css
+ * javascript
+  * React for Facebook
+  * Babel for browser compatibility
+  * Jest
+  * images
 
 * Develop locally
 * Github
@@ -21,3 +21,5 @@
 * Code Pipeline, puts in s3 bucket, lambda function deploys to prod s3 bucket
 * sns notifies owner of deployment
 
+
+ README.md ver 1.3
